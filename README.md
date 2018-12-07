@@ -17,6 +17,8 @@ There have two main parts of my project, the first part is using different machi
 
 Data link: https://storage.googleapis.com/capstone_airbnb/Dataset.zip
 
+PPT link:   https://storage.googleapis.com/ppt_airbnb_dublin/Dublin%20Airbnb.pdf
+
 
 
 Before running the code, please make sure you have the following packages installed:  matplotlib, pandas, re, math, searborn, sklearn, numpy, gensim, wordcloud, nltk, statsmodel. 
