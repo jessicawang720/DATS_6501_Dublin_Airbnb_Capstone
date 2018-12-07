@@ -1,8 +1,6 @@
 # DATS_6501_Dublin_Airbnb
 
 
-Data link: https://storage.googleapis.com/capstone_airbnb/Dataset.zip
-
 ##  Airbnb Dublin DATASET PROJECT
 ### Author: Tianyi Wang
 
@@ -21,7 +19,7 @@ Data link: https://storage.googleapis.com/capstone_airbnb/Dataset.zip
 
 
 
-Before running the code, please make sure you have the following packages installed:  matplotlib, sklearn, numpy, gensim, wordcloud, nltk, statsmodel. 
+Before running the code, please make sure you have the following packages installed:  matplotlib, pandas, re, math, searborn, sklearn, numpy, gensim, wordcloud, nltk, statsmodel. 
 
 
 * Run 'Dublin Airbnb Visualization For EDA.py' first. This file include different visualiztion for the data. It will give you a big picture of what's the data looks like. 
