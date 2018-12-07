@@ -22,6 +22,22 @@ Data link: https://storage.googleapis.com/capstone_airbnb/Dataset.zip
 Before running the code, please make sure you have the following packages installed:  matplotlib, pandas, re, math, searborn, sklearn, numpy, gensim, wordcloud, nltk, statsmodel. 
 
 
+
+```
+sudo pip2 install gensim
+```
+```
+sudo pip2 install wordcloud
+
+```
+```
+sudo pip2 install re
+```
+```
+sudo pip2 install sklearn
+
+```
+
 * Run 'Dublin Airbnb Visualization For EDA.py' first. This file include different visualiztion for the data. It will give you a big picture of what's the data looks like. 
 * Run 'Predicting Listing Prices By Room.py' file, which is the code of different ML tools i used for the predicting listing the price. 
 * Run 'Predicting_Listing_Reviews_Rating.py' file, which is the code of ML for Reviews rating score.
